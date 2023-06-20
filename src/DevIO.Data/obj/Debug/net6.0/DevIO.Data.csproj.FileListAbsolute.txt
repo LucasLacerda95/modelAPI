@@ -1,0 +1,15 @@
+C:\dev\desenvolvedor.io\MinhaAPICompleta\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.deps.json
+C:\dev\desenvolvedor.io\MinhaAPICompleta\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.dll
+C:\dev\desenvolvedor.io\MinhaAPICompleta\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.pdb
+C:\dev\desenvolvedor.io\MinhaAPICompleta\src\DevIO.Data\bin\Debug\net6.0\DevIO.Business.dll
+C:\dev\desenvolvedor.io\MinhaAPICompleta\src\DevIO.Data\bin\Debug\net6.0\DevIO.Business.pdb
+C:\dev\desenvolvedor.io\MinhaAPICompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.AssemblyReference.cache
+C:\dev\desenvolvedor.io\MinhaAPICompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\desenvolvedor.io\MinhaAPICompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.AssemblyInfoInputs.cache
+C:\dev\desenvolvedor.io\MinhaAPICompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.AssemblyInfo.cs
+C:\dev\desenvolvedor.io\MinhaAPICompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\dev\desenvolvedor.io\MinhaAPICompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.CopyComplete
+C:\dev\desenvolvedor.io\MinhaAPICompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.dll
+C:\dev\desenvolvedor.io\MinhaAPICompleta\src\DevIO.Data\obj\Debug\net6.0\refint\DevIO.Data.dll
+C:\dev\desenvolvedor.io\MinhaAPICompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.pdb
+C:\dev\desenvolvedor.io\MinhaAPICompleta\src\DevIO.Data\obj\Debug\net6.0\ref\DevIO.Data.dll
